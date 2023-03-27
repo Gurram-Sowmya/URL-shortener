@@ -13,5 +13,5 @@ Front-End Information
 2. History Page - Containing all the Original URLs along with the Shortened URLs.
 
 Project Workflow
->>>Users can enter the URL they want to shorten. After entering a URL, click on the ‘Shorten’ URL button to display the shortened URL in the following text field.
->>>After the ‘Shorten’ button is clicked, the URL that is entered is saved in our database with the shortened URL. It is saved in the database so that the user can look into the previous URLs he/she entered in our web app with their shortened URL.
+1. Users can enter the URL they want to shorten. After entering a URL, click on the ‘Shorten’ URL button to display the shortened URL in the following text field.
+2. After the ‘Shorten’ button is clicked, the URL that is entered is saved in our database with the shortened URL. It is saved in the database so that the user can look into the previous URLs he/she entered in our web app with their shortened URL.
