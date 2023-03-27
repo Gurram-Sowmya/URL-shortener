@@ -1,4 +1,4 @@
-#URL Shortener Application
+URL Shortener Application
 
 Sometimes we need to share or send links and this can be annoying to copy and paste long URLs. That is where URL shorteners come in. URL shorteners make it easy to share links by shortening them.
 
